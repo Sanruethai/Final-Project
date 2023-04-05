@@ -1,6 +1,6 @@
 # Final-Project
  
-
+```mermaid
 classDiagram
     Program <|-- NikeNy
     NikeNy <|-- Court_Vision_Low_Next_Nature_1
@@ -52,5 +52,5 @@ classDiagram
         +getColor()
         +getPrice()
     }
-   ,,,
+```
 ### ผู้พัฒนาโปรแกรม
