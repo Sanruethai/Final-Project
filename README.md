@@ -9,7 +9,7 @@ classDiagram
     NikeNy <|-- Court_Vision_Alta_4
     NikeNy <|-- Court Vision Alta-5
     NikeNy <|-- Court_Legacy_Lift_6
-    NikeNy <|-- Court Vision Low-7
+    NikeNy <|-- Court VisionLow-7
     Program : +Main()
     class NikeNy{
         +openToolStripMenuItem_Click()
@@ -47,7 +47,7 @@ classDiagram
         +getColor()
         +getPrice()
     }
-    class Court Vision Low-7{
+    class Court VisionLow-7{
         +getName()
         +getColor()
         +getPrice()
