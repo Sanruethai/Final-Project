@@ -1,5 +1,10 @@
 # Final-Project
- 
+### ความเป็นมาของโปรแกรม
+=
+###จุดประสงค์ของโปรแกรม
+=
+###โครงสร้างของโปรแกรม (class diagram)
+
 ```mermaid
 classDiagram
     Program <|-- NikeNy
